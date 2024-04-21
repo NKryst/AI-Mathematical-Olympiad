@@ -13,7 +13,7 @@ The AI Mathematical Olympiad Prize challenges participants to create models that
 
 ## Repository Structure
 
-Below is a map of the essential files and directories within the `ai-math-olympiad` repository:
+Below is a map of the essential files and directories within the `AI-Mathematical-Olympiad` repository:
 
 ```plaintext
 ai-math-olympiad/
